@@ -1,0 +1,81 @@
+.container-navbar{
+  background-color: plum;
+  display:flex;
+  justify-content: end;
+  
+  font-family:'Times New Roman', Times, serif;
+  padding: 5px;
+  
+  
+}
+a{
+  
+  
+  text-decoration: none;
+  color: black;
+  
+  
+  padding: 10px;
+}
+
+.first-page{
+    background-color: rgb(230, 173, 186);
+   
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  display:grid;
+  
+
+}
+.second-div{
+    background-color: #BF6415;
+    
+}
+img{
+  border-radius: 50%;
+  background-color: rgb(128, 0, 41);
+  
+}
+.home{
+  display:grid;
+  grid-template-rows:1fr 2fr;
+  grid-template-columns:2fr 2fr;
+ 
+}
+.grid1{
+  text-align: center;
+  
+}
+.grid2{
+  padding-left: 20;
+  padding-top: 20px;
+}
+button:hover{
+  background-color:lightblue;
+  
+
+}
+button{
+  background-color:crimson; border-radius:5px;
+}
+.hero{
+ background-color: plum; 
+  margin: auto;
+  text-align: center;
+}
+.third-div{
+
+  background-color: aliceblue;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  height: 70vh;
+}
+.footer-end{
+  background-color: pink;
+}
+ul{
+  list-style: none;
+}
